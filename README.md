@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajay</h1>
+<h1 align="center">Hi 👋 Developers, I'm Ajay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" width="400" border-radius="50%" src="https://tenor.com/view/programmer-gif-19019116.gif">
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **React Js**
 
-- 💬 Ask me about **Javascript,JQuery and SASS**
+- 💬 Ask me about **Javascript,JQuery, HTML,CSS, BootStrap and SASS**
 
 - 📫 How to reach me **ajayxa1@gmail.com**
 
