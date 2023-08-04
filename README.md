@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" src="
-https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
+<img align="right" width="400" src="https://tenor.com/view/programmer-gif-19019116.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devajay101&label=Profile%20views&color=0e75b6&style=flat" alt="devajay101" /> </p>
 
 
