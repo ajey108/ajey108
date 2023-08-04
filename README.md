@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<h3 align="center">A passionate frontend developer from Indiaia</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" src="
 https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
