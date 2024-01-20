@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" width="400" border-radius="50%" src="https://tenor.com/view/programmer-gif-19019116.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devajay101&label=Profile%20views&color=0e75b6&style=flat" alt="ajey108" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajey108&label=Profile%20views&color=0e75b6&style=flat" alt="ajey108" /> </p>
 
 
 - 🔭 I’m currently working on **Front-end**
