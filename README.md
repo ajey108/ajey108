@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **React Js**
 
-- 💬 Ask me about **Javascript,JQuery, HTML,CSS, BootStrap and SASS**
+- 💬 Ask me about **Javascript,JQuery, HTML,CSS, BootStrap,Tailwindcss and SASS**
 
 - 📫 How to reach me **ajayxa1@gmail.com**
 
