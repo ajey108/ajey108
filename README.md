@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋 Developers, I'm Ajay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <img align="right" width="400" border-radius="50%" src="https://tenor.com/view/programmer-gif-19019116.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajey108&label=Profile%20views&color=0e75b6&style=flat" alt="ajey108" /> </p>
 
 
-- 🔭 I’m currently working on **Front-end**
+- 🔭 I’m currently working on **Fullstack**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Next js**
 
-- 👯 I’m looking to collaborate on **React Js**
+- 👯 I’m looking to collaborate on **Next js**
 
-- 💬 Ask me about **Javascript,JQuery, HTML,CSS, BootStrap,Tailwindcss and SASS**
+- 💬 Ask me about **Javascript,JQuery, HTML,CSS, BootStrap,Tailwindcss,SASS,ReactJs,Ejs,Node,Express and MongoDB,**
 
 - 📫 How to reach me **ajayxa1@gmail.com**
 
