@@ -1,12 +1,8 @@
 # 💫 About Me:
- -🔭 
-Memory updated
-Here's a streamlined version of your GitHub profile README focused entirely on your coding expertise:
-
 👋 Welcome to My GitHub Profile!
 Full-Stack Developer | MERN Stack Specialist | Tech Enthusiast
 
-I am dedicated to crafting efficient, scalable, and user-friendly web applications. My work revolves around the MERN stack, where I leverage MongoDB, Express.js, React.js, and Node.js to build solutions that solve real-world problems.k**<br><br>- 🌱 I’m currently learning **Next js**<br><br>- 👯 I’m looking to collaborate on **Next js**<br><br>- 💬 Ask me about **Javascript,JQuery, HTML,CSS, BootStrap, Tailwindcss, SASS, ReactJs, Ejs, Node, Express and MongoDB,**<br><br>- 📫 How to reach me **ajayxa1@gmail.co
+-🔭 I am dedicated to crafting efficient, scalable, and user-friendly web applications. My work revolves around the MERN stack, where I leverage MongoDB, Express.js, React.js, and Node.js to build solutions that solve real-world problems.k**<br><br>- 🌱 I’m currently learning **Next js**<br><br>- 👯 I’m looking to collaborate on **Next js**<br><br>- 💬 Ask me about **Javascript,JQuery, HTML,CSS, BootStrap, Tailwindcss, SASS, ReactJs, Ejs, Node, Express and MongoDB,**<br><br>- 📫 How to reach me **ajayxa1@gmail.co
 
 
 ## 🌐 Socials:
