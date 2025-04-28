@@ -1,5 +1,5 @@
 
-# Hi, I'm Ajay 👋
+# Hi, I'm Ajay 👋  ![Profile views](https://komarev.com/ghpvc/?username=ajey108&label=Profile%20views&color=0e75b6&style=flat)
 
 I'm a Full Stack Developer specializing in modern web technologies.
 
@@ -42,7 +42,11 @@ I'm a Full Stack Developer specializing in modern web technologies.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajey108&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajey108&theme=radical" width="48%" />
+
 </div>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajey108&layout=compact&theme=dark)](https://github.com/ajey108)
+
 
 ---
 
@@ -50,6 +54,8 @@ I'm a Full Stack Developer specializing in modern web technologies.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://ajay108portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-kumar-016b56242/)
+
+ 
 
 
 <div align="center">
