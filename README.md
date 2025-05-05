@@ -29,8 +29,7 @@ I'm a Full Stack Developer specializing in modern web technologies.
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="40" height="40" alt="socke.io"/>
           
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"  width="40" height="40" alt="flask" />
+
           
           
 </div>
@@ -59,7 +58,8 @@ I'm a Full Stack Developer specializing in modern web technologies.
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdzam14dmRlbThkcWZkeXNndTE2M2Q2bjZ6NHJidWlvcXgxNHRqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7bug2wkdhpf7kbFS/giphy.gif"  />
+  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdzam14dmRlbThkcWZkeXNndTE2M2Q2bjZ6NHJidWlvcXgxNHRqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7bug2wkdhpf7kbFS/giphy.gif"  />
 </div>
 
 
