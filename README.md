@@ -5,7 +5,7 @@ I'm a Full Stack Developer specializing in modern web technologies.
 
 - ⚡ Focus: JavaScript, React, Node.js, MongoDB
 - 🎯 Passionate about clean code, scalable systems, and UI/UX.
-- 🚀 Currently exploring Docker and  Redis.
+- 🚀 Currently exploring GraphQL and Redis.
 
 ---
 
@@ -21,12 +21,8 @@ I'm a Full Stack Developer specializing in modern web technologies.
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next js" />
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="38" height="38" alt="TypeScript"  />
-          
-
-          
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="40" height="40" alt="socke.io"/>
+
           
  
 
