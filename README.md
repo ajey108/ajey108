@@ -50,12 +50,15 @@ I'm a Full Stack Developer specializing in modern web technologies.
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://ajay108portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-kumar-016b56242/)
 
- 
 
+<div align='center'> 
+<img src="https://github.com/user-attachments/assets/03593e18-3781-42bc-856d-3e092d2c2040https://github.com/user-attachments/assets/03593e18-3781-42bc-856d-3e092d2c2040" alt="Cool animation" />
 
-<div align="center">
-  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdzam14dmRlbThkcWZkeXNndTE2M2Q2bjZ6NHJidWlvcXgxNHRqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7bug2wkdhpf7kbFS/giphy.gif"  />
 </div>
+
+
+
+
+
 
 
