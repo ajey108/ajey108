@@ -28,16 +28,8 @@ From crafting polished UIs to architecting reliable backends — I bring ideas t
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| 🛒 **E-Commerce MERN App** | Secure auth, product management, payments, admin dashboard |
-| 🎵 **Spotify Clone (Supabase)** | Custom albums, playlists, login, music UI |
-| 📋 **Sticky Notes App** | Smooth CRUD, elegant UI, local storage persistence |
-| ⚡ **Solar Panel Calculator (Next.js)** | India-based consumption & roof-area energy calculator |
-
-➡️ *See all projects:* **https://ajay108portfolio.netlify.app/projects**
+➡️ * My  projects:* **https://ajay-portfolio-chi.vercel.app/**
 
 ---
 
