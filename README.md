@@ -57,6 +57,7 @@ From crafting polished UIs to architecting reliable backends — I bring ideas t
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://ajay108portfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajey108)
 
+
 </div>
 
 ---
