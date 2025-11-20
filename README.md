@@ -99,7 +99,7 @@ and debugging things other developers gave up on.
 You can reach out for collaboration, JavaScript discussions, or even philosophical debates around tech.
 
 <p align="center">
-  <a href="#">Portfolio</a> •  
-  <a href="#">Twitter</a> •  
-  <a href="#">Email</a>
+  <a href="https://ajay-portfolio-chi.vercel.app/">Portfolio</a> •  
+  <a href="https://x.com/ajey108">Twitter</a> •  
+  <a href="ajayxa1@gmail.com">Email</a>
 </p>
