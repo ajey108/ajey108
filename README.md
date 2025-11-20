@@ -1,74 +1,105 @@
-# 👋 Hey there, I'm **Ajay Kumar**
+<h3 align="center">👋🏼 Hey there, I'm Ajay</h3>
 
-> _Building fast, scalable, and elegant web experiences._
+<br />
 
-I’m a **Full Stack Developer** focused on creating performant, user-first products.  
-From crafting polished UIs to architecting reliable backends — I bring ideas to life with JavaScript and a cup of chai ☕.
+<p align="center">
+  Full-stack JavaScript engineer who lives and breathes the MERN ecosystem.  
+  <br />I build things that work, scale, and don’t fall apart when real users show up.
+</p>
 
-💡 **Current Focus:** Next.js, GraphQL, Redis  
-🎯 **Core Stack:** JavaScript • React • Node • MongoDB • Express • Tailwind  
-🧠 **Mindset:** Clean logic • Scalable systems • Human-first UI  
+<br />
 
+### WHAT I DO
 ---
 
-## ⚙️ Tech Stack
+<p>
+I spend most of my time crafting clean, maintainable front-end experiences with <b>React</b> and <b>TypeScript</b>,  
+but I'm equally at home writing expressive <b>Node.js</b> APIs, designing MongoDB schemas that actually age well,  
+and debugging things other developers gave up on.  
+<br /><br />
 
-<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="45" height="45"/>
+<br />
 
-</div>
 
+<br />
+
+### TECH STACK
 ---
 
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="45" height="45" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="45" height="45" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="Postgres" />
+      <br>Postgres
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
 
-➡️ * My  projects:* **https://ajay-portfolio-chi.vercel.app/**
+<br />
 
+### WHAT I BELIEVE
 ---
 
-## 📊 GitHub Insights
+- Code should be readable enough that future you doesn’t curse present you.
+- A good architecture saves more time than a thousand “quick fixes”.
+- JavaScript is both a blessing and a minefield — navigate it with discipline.
+- The fundamentals never go out of style, even when JavaScript gets a new framework every Tuesday.
 
-<div align="center">
+<br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajey108&show_icons=true&theme=tokyonight" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajey108&theme=tokyonight" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajey108&layout=compact&theme=tokyonight" />
-
-</div>
-
+### CONNECT
 ---
+You can reach out for collaboration, JavaScript discussions, or even philosophical debates around tech.
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://ajay108portfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajey108)
-
-
-</div>
-
----
-
-<div align="center">
-
-🧠 _Always learning. Always shipping._  
-✨ _Let’s build something meaningful._
-
-<br/>
-
-<img src="https://github.com/user-attachments/assets/03593e18-3781-42bc-856d-3e092d2c2040" width="600" alt="Cool animation"/>
-
-</div>
+<p align="center">
+  <a href="#">Portfolio</a> •  
+  <a href="#">Twitter</a> •  
+  <a href="#">Email</a>
+</p>
