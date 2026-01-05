@@ -84,13 +84,7 @@ and debugging things other developers gave up on.
 
 <br />
 
-### WHAT I BELIEVE
----
 
-- Code should be readable enough that future you doesn’t curse present you.
-- A good architecture saves more time than a thousand “quick fixes”.
-- JavaScript is both a blessing and a minefield — navigate it with discipline.
-- The fundamentals never go out of style, even when JavaScript gets a new framework every Tuesday.
 
 <br />
 
