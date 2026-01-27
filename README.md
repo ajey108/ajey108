@@ -1,10 +1,9 @@
-<h3 align="center">👋🏼 Hey there, I'm Ajay</h3>
+<h3 align="center">👋🏼 Hi, I'm Ajay.</h3>
 
 <br />
 
 <p align="center">
-  Full-stack JavaScript engineer who lives and breathes the MERN ecosystem.  
-  <br />I build things that work, scale, and don’t fall apart when real users show up.
+  I'm a JavaScript developer. I work mainly with the MERN stack.
 </p>
 
 <br />
@@ -13,10 +12,10 @@
 ---
 
 <p>
-I spend most of my time crafting clean, maintainable front-end experiences with <b>React</b> and <b>TypeScript</b>,  
-but I'm equally at home writing expressive <b>Node.js</b> APIs, designing MongoDB schemas that actually age well,  
-and debugging things other developers gave up on.  
-<br /><br />
+I build front-end features using React and TypeScript. <br/>
+I write back-end code with Node.js and Express.  <br/>
+I work with MongoDB and Postgres.  <br/>
+I use Git, Docker, Linux, and deploy on Vercel.
 
 
 <br />
